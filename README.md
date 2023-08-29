@@ -1,10 +1,6 @@
-# Basictexteditor
-
-In this task I have Basic text editor web Application that allows user create and edit plain text documents.
-
 # Features
 
-Text Editing: Create and edit plain text documents with the editor's built-in tools.
+• Text Editing: Create and edit plain text documents with the editor's built-in tools.
 
 • Text Formatting: Apply formatting to the text, such as bold, italic, and underline.
 
